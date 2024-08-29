@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AitanaGrasso-Cladera
 - 📚 I studied Psychology at the Diego Portales University (Chile), with an emphasis on Neuropsychology (I specialized in Neuropsychological Evaluation and Rehabilitation).
-Then, I continued my studies at the same university, where I did a Master's in Social Neuroscience.
+Then, I continued my studies at the same university, where I did a Master's in Social Neuroscience at the [Centro de Estudios en Neurociencia Humana y Neuropsicología](https://neuro.udp.cl/).
 - 👀 From the beginning of my studies, I've been fascinated by the complex relationship between the mind, the body, and the environment, and I knew that I wanted to continue
 in the academic field to be a researcher.
 - 🧠 I'm currently pursuing a PhD in Cognitive Science in the [Neurobiopsychology Lab at Osnabrück University](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) in association with the [RTG Situated Cognition](https://situated-cognition.com/). 
