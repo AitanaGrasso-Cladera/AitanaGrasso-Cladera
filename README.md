@@ -3,7 +3,7 @@
 Then, I continued my studies at the same university, where I did a Master's in Social Neuroscience at the [Centro de Estudios en Neurociencia Humana y Neuropsicología](https://neuro.udp.cl/).
 - 👀 From the beginning of my studies, I've been fascinated by the complex relationship between the mind, the body, and the environment, and I knew that I wanted to continue
 in the academic field to be a researcher.
-- 🧠 I'm currently pursuing a PhD in Cognitive Science in the [Neurobiopsychology Lab at Osnabrück University](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) (Germany) in association with the [RTG Situated Cognition](https://situated-cognition.com/). 
+- 🧠 I'm currently pursuing a PhD in Cognitive Science in the [Neurobiopsychology Lab at Osnabrück University](https://www.ikw.uni-osnabrueck.de/en/research_groups/neurobiopsychology.html) (Germany) in association with the [RTG Situated Cognition](https://situated-cognition.com/), under the supervision of Prof. Dr. Peter König.
 - 👩🏻‍🔬 I’m interested in the development of theoretical/philosophical and empirical work, addressing research questions that embrace the complexity of the cognitive processes (from
 a 4/3E Cognition perspective) in real life (using methodologies like the Mobile Brain/Body Imaging -MoBI- framework).
 - 💻 In this GitHub, you can find information about the work I've been doing. If you are interested, you can see more [here](https://scholar.google.com/citations?user=cLqB67AAAAAJ&hl=en&oi=ao) 
